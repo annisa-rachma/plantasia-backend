@@ -1,0 +1,191 @@
+[
+    { "name": "Pachira aquatica",
+      "slug": "pachira-aquatica",
+      "description": "Pachira aquatica is a sought-after tree that adapts extremely well to being grown indoors. Under fengshui, a properly placed Pachira aquatica in the home or office will create positive energy/chi, bringing prosperity and good luck. As a result, the Money Tree is a fashionable gift for birthdays, weddings and housewarmings.",
+      "price": 16,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/pachira-1.webp",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    { "name": "Ficus lyrata",
+      "slug": "ficus-lyrata",
+      "description": "Ficus Lyrata has huge, glossy, fiddle-shaped leaves with prominent veins. If you are looking for a Ficus with a difference, this one packs a punch with it's amazing flamboyant foliage. Leaves are much larger than most other Ficus, growing up to 30cm long and 13cm wide with a fabulous violin-like shape. Leaves often have brown spotting and markings particularly on the underneaths.",
+      "price": 42,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/ficus-lyrata-1.webp",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    { "name": "Polyscias Fabian",
+      "slug": "polyscias-fabian",
+      "description": "Polyscias are versatile, small, indoor, branching trees. They grow in a compact, upright manner, making them suitable even in smaller spaces. Their thick, woody trunks is their main appeal. Each plant is unique as the large, rounded leaves can develop anywhere along the length of the branches, exposing different degrees of woody stem on each plant. They are often called Dinner Plate Aralia due to their round, flat leaf shape. Polyscias translates from the Greek as 'many' and 'shade', a reference to their abundant foliage.",
+      "price": 19.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/polyscias-fabian-1.webp",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    { "name": "Dracaena reflexa Anita",
+      "slug": "dracaena-reflexa-anita",
+      "description": "Dracaena reflexa Anita, also known as 'Song of India' or 'Pleomele reflexa,' is an intriguingly exotic houseplant with long, dark green leaves featuring yellow veining and a distinctive thick and woody branched stem. The branched design offers a dense, tree-like greenery that creates a lush tropical atmosphere in your home or office. Additionally, it efficiently filters airborne toxins, promoting easier and healthier breathing.",
+      "price": 102,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dracaena-reflexa-Anita-1.webp",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    { "name": "Zamioculcas zamiifolia",
+      "slug": "zamioculcas-zamiifolia",
+      "description": "The ZZ Plant, or Zanzibar Gem, is an extremely popular and hip house plant. It's nonchalant care requirements make it a great choice for forgetful houseplant owners; whereas its stunning and unique foliage give it eye-catching appeal. \br Zamioculcas zamiifolia has small but wide, dark green, glossy leaves that zig-zag up tall, slender stems. The plant has air purifying qualities too, removing volatile organic compounds benzene, toluene, ethylbenzene and xylene.",
+      "price": 13.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Zamioculcas-zamiifolia-1.webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    { "name": "Aspidistra",
+      "slug": "Aspidistra",
+      "description": "Fully deserving of its common name, Cast Iron Plant, the aspidistra is extremely resilient and has a wonderful ability to thrive on very little care. The fact that it also copes with pollution gives rise to its alternative name Bar-Room Plant.",
+      "price": 34.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Aspidistra-1.webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    { "name": "Monstera deliciosa",
+      "slug": "monstera-deliciosa",
+      "description": "The Swiss Cheese Plant was a 70's cult classic, its retro-chic appeal makes it just as popular today and rightly so. Its large, glossy, heart shaped, leaves add fantastic impact with their perforations and lobes, which develop as the leaf matures.",
+      "price": 14.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-deliciosa-1.webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    { "name": "Monstera adansonii",
+      "slug": "monstera-adansonii",
+      "description": "A close relative of the Swiss Cheese Plant (Monstera deliciosa), the Philodendron Monkey Mask is often also referred to as Philodendron or Monstera Obliqua, however a true Obliqua is more hole than leaf and nowhere near as attractive as this little chap.",
+      "price": 14,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-adansonii-1.webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    { "name": "Alocasia zebrina Tiger",
+      "slug": "alocasia-zebrina-tiger",
+      "description": "The Alocasia zebrina Tiger has arrow shaped leaves and a distinctive, tiger-striped stem. The leaves have a wonderfully deep, glossy texture.",
+      "price": 22,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Alocasia-zebrina-Tiger-1.webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Dieffenbachia Maroba",
+      "slug": "dieffenbachia-maroba",
+      "description": "A lovely variegated Dieffenbachia with glossy, dark green leaves and a bright, vivid mottled yellow centre. Definitely tropical and luxurious in appearance, this is a larger specimen Dieffenbachia, which works wonders as a statement floor piece.",
+      "price": 75,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dieffenbachia-Maroba-1.webp",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Chamaedorea elegans",
+      "slug": "chamaedorea-elegans",
+      "description": "The Parlour Palm was popular with the Victorians and remains a firm favourite. An elegant plant, easy to look after, with excellent air purifying qualities. They are undemanding in terms of light, water, temperature, humidity and feed, making them perfect for those of us that like low-maintenance room-mates.",
+      "price": 8.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chamaedorea-elegans-1.webp",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Chrysalidocarpus lutescens",
+      "slug": "chrysalidocarpus-lutescens",
+      "description": "The Areca Palm is a truly elegant indoor palm. Multiple stems emerge from its base, with numerous long, gracefully arching fronds growing close together along the stems. Leaves are pinnate, ie feather shaped. It is one of the top air purifying plants and a natural humidifier that will improve the air quality of your home or office as well as adding a relaxing tropical feel.",
+      "price": 20,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chrysalidocarpus-lutescens-1.webp",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Rhapis excelsa",
+      "slug": "rhapis-excelsa",
+      "description": "A delightful fan palm, with large, thick leaves, that are wider than many other palms and blunt tipped. Rhapis excelsa bears rhizome offshoots, leading to clusters of upright stems, perfect for a flourish of lush interior greenery. Thick fibres envelop new stems, these fall away in time to reveal bamboo-like trunks, and give the palm its other common name: Bamboo Palm.",
+      "price": 149,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Rhapis-excelsa-1.webp",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Beaucarnea",
+      "slug": "Beaucarnea",
+      "description": "HydroCare plants are planted in hydrogranules instead of using soil.Hydrogranules are manufactured from clay pellets that are baked at high temperatures to make them expand, a process a bit like making popcorn.\br The open structure of the hydrogranules allows water and nutrients to be stored and released, creating the optimum conditions for indoor plants to thrive as well as simplifying maintenance requirements.",
+      "price": 69.95,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Beaucarnea-1.webp",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Nephrolepis exaltata Bostoniensis",
+      "slug": "nephrolepis-exaltata-bostoniensis",
+      "description": "The Boston Fern is an elegant Victorian favourite, sometimes called the Sword fern. It has graceful, arching, green fronds with a ruffled appearance that is best displayed in a hanging basket or on a stand where it can cascade over the edge.",
+      "price": 12.95,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Nephrolepis-exaltata-Bostoniensis-1.webp",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "name": "Asplenium nidus Crispy Wave",
+      "slug": "asplenium-nidus-crispy-wave",
+      "description": "The Asplenium Crispy Wave is very much on trend, with its sculptural, pleated leaves adding style at home or in the office. The wavy fronds are highly efficient at converting CO2 into oxygen and cleaning the air. It is also one of the longest living pot plants and extremely easy to look after, making it excellent value for money.",
+      "price": 11.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asplenium-nidus-Crispy-Wave-1.webp",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "name": "Asparagus densiflorus Myersii",
+      "slug": "asparagus-densiflorus-myersii",
+      "description": "A majestic burst of bushy, tail-like plumes, it is easy to see where this Fern got its name. Bundles of delicate fronds taper off at the tips as they elegantly adorn your space with a sense of quiet calmness. Each frond is assembled from tiny star-shaped needles, all blanketing together to give the plant a soft and fluffy finish. This starburst of lush green will add a forestry freshness to any interior.",
+      "price": 13.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asparagus-densiflorus-Myersii-1.jpg",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "name": "Adiantum Fragrans",
+      "slug": "adiantum-fragrans",
+      "description": "With its arching, wiry, black stems and delicate, pale green, triangular fronds, Delta Maidenhair Fern is everything you would want from an elegant fern. Often grown in terrariums where humidity levels are high. This is a charming and graceful fern that also works well in bathrooms and kitchens.",
+      "price": 12.95,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Adiantum-Fragrans-1.jpg",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "name": "Sansevieria Laurentii",
+      "slug": "sansevieria-laurentii",
+      "description": "HydroCare plants are planted in hydrogranules instead of using soil. Hydrogranules are manufactured from clay pellets that are baked at high temperatures to make them expand, a process a bit like making popcorn. \br The open structure of the hydrogranules allows water and nutrients to be stored and released, creating the optimum conditions for indoor plants to thrive as well as simplifying maintenance requirements.",
+      "price": 27,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Sansevieria-Laurentii-1.webp",
+      "categoryId": 5,
+      "authorId": 1
+    },
+    {
+      "name": "Euphorbia tirucalli",
+      "slug": "euphorbia-tirucalli",
+      "description": "The Pencil Cactus has a novel appearance, with multiple pencil-like branches that are bang on trend for contemporary styling. It is a spineless succulent also known as Indian Tree Spurge, Milk Bush and Naked Lady. It is low maintenance and easy to look after as long as it gets plenty of bright light.",
+      "price": 29.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Euphorbia-tirucalli-1.webp",
+      "categoryId": 5,
+      "authorId": 1
+    },
+    {
+      "name": "Clusia rosea Princess",
+      "slug": "clusia-rosea-princess",
+      "description": "Clusia rosea is an ornamental leafy houseplant that is remarkably sturdy and easy to care for. Its stiff, leathery leaves are a dark olive green in colour and are said to be so tough, you could carve your name into them, hence the popular name 'Autograph Tree'. The paddle-like leaves are also noted for their air filtering properties.",
+      "price": 12.95,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Clusia-rosea-Princess-1.webp",
+      "categoryId": 5,
+      "authorId": 1
+    },
+    {
+      "name": "Haworthia fasciala Alba",
+      "slug": "haworthia-fasciala-alba",
+      "description": "A collection of snow-coated Christmas trees in the winter or a dazzle of zebras in the summer, this versatile Haworthia is ready to add heaps of personality to your space no matter the season.",
+      "price": 5.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Haworthia-fasciala-Alba-1.webp",
+      "categoryId": 5,
+      "authorId": 1
+    }
+  ]

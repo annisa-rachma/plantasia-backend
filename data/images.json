@@ -1,0 +1,266 @@
+[
+    {
+      "productId": 1,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/pachira-1.webp"
+    },
+    {
+      "productId": 1,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/pachira-2.webp"
+    },
+    {
+      "productId": 1,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/pachira-3.webp"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/ficus-lyrata-1.webp"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/ficus-lyrata-2.jpg"
+    },
+    {
+      "productId": 2,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/ficus-lyrata-3.jpg"
+    },
+    {
+      "productId": 3,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/polyscias-fabian-1.webp"
+    },
+    {
+      "productId": 3,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/polyscias-fabian-2.webp"
+    },
+    {
+      "productId": 3,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/polyscias-fabian-3.webp"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dracaena-reflexa-Anita-1.webp"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dracaena-reflexa-Anita-2.webp"
+    },
+    {
+      "productId": 4,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dracaena-reflexa-Anita-3.webp"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Zamioculcas-zamiifolia-1.webp"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Zamioculcas-zamiifolia-2.webp"
+    },
+    {
+      "productId": 5,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Zamioculcas-zamiifolia-3.webp"
+    },
+    {
+      "productId": 6,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Aspidistra-1.webp"
+    },
+    {
+      "productId": 6,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Aspidistra-2.webp"
+    },
+    {
+      "productId": 6,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Aspidistra-3.webp"
+    },
+    {
+      "productId": 7,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-deliciosa-1.webp"
+    },
+    {
+      "productId": 7,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-deliciosa-2.webp"
+    },
+    {
+      "productId": 7,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-deliciosa-3.webp"
+    },
+    {
+      "productId": 8,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-adansonii-1.webp"
+    },
+    {
+      "productId": 8,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-adansonii-2.jpg"
+    },
+    {
+      "productId": 8,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-adansonii-3.jpg"
+    },
+    {
+      "productId": 9,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Alocasia-zebrina-Tiger-1.webp"
+    },
+    {
+      "productId": 9,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Alocasia-zebrina-Tiger-2.webp"
+    },
+    {
+      "productId": 9,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Alocasia-zebrina-Tiger-3.webp"
+    },
+    {
+      "productId": 10,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dieffenbachia-Maroba-1.webp"
+    },
+    {
+      "productId": 10,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dieffenbachia-Maroba-2.webp"
+    },
+    {
+      "productId": 10,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dieffenbachia-Maroba-3.jpg"
+    },
+    {
+      "productId": 11,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chamaedorea-elegans-1.webp"
+    },
+    {
+      "productId": 11,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chamaedorea-elegans-2.webp"
+    },
+    {
+      "productId": 11,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chamaedorea-elegans-3.jpg"
+    },
+    {
+      "productId": 12,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chrysalidocarpus-lutescens-1.webp"
+    },
+    {
+      "productId": 12,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chrysalidocarpus-lutescens-2.jpg"
+    },
+    {
+      "productId": 12,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chrysalidocarpus-lutescens-3.jpg"
+    },
+    {
+      "productId": 13,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Rhapis-excelsa-1.webp"
+    },
+    {
+      "productId": 13,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Rhapis-excelsa-2.webp"
+    },
+    {
+      "productId": 13,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Rhapis-excelsa-3.webp"
+    },
+    {
+      "productId": 14,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Beaucarnea-1.webp"
+    },
+    {
+      "productId": 14,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Beaucarnea-2.webp"
+    },
+    {
+      "productId": 14,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Beaucarnea-3.webp"
+    },
+    {
+      "productId": 15,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Nephrolepis-exaltata-Bostoniensis-1.web"
+    },
+    {
+      "productId": 15,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Nephrolepis-exaltata-Bostoniensis-2.webp"
+    },
+    {
+      "productId": 15,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Nephrolepis-exaltata-Bostoniensis-3.webp"
+    },
+    {
+      "productId": 16,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asplenium-nidus-Crispy-Wave-1.webp"
+    },
+    {
+      "productId": 16,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asplenium-nidus-Crispy-Wave-2.jpg"
+    },
+    {
+      "productId": 16,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asplenium-nidus-Crispy-Wave-3.webp"
+    },
+    {
+      "productId": 17,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asparagus-densiflorus-Myersii-1.jpg"
+    },
+    {
+      "productId": 17,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asparagus-densiflorus-Myersii-2.jpg"
+    },
+    {
+      "productId": 17,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asparagus-densiflorus-Myersii-3.jpg"
+    },
+    {
+      "productId": 18,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Adiantum-Fragrans-1.jpg"
+    },
+    {
+      "productId": 18,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Adiantum-Fragrans-2.jpg"
+    },
+    {
+      "productId": 18,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Adiantum-Fragrans-3.jpg"
+    },
+    {
+      "productId": 19,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Sansevieria-Laurentii-1.webp"
+    },
+    {
+      "productId": 19,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Sansevieria-Laurentii-2.webp"
+    },
+    {
+      "productId": 19,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Sansevieria-Laurentii-3.webp"
+    },
+    {
+      "productId": 20,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Euphorbia-tirucalli-1.webp"
+    },
+    {
+      "productId": 20,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Euphorbia-tirucalli-2.jpg"
+    },
+    {
+      "productId": 20,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Euphorbia-tirucalli-3.jpg"
+    },
+    {
+      "productId": 21,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Clusia-rosea-Princess-1.webp"
+    },
+    {
+      "productId": 21,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Clusia-rosea-Princess-2.jpg"
+    },
+    {
+      "productId": 21,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Clusia-rosea-Princess-3.webp"
+    },
+    {
+      "productId": 22,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Haworthia-fasciala-Alba-1.webp"
+    },
+    {
+      "productId": 22,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Haworthia-fasciala-Alba-2.jpg"
+    },
+    {
+      "productId": 22,
+      "imgUrl": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Haworthia-fasciala-Alba-3.webp"
+    }
+  ]
