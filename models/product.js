@@ -7,6 +7,8 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       Product.belongsTo(models.User, {foreignKey : "authorId", onDelete: 'CASCADE', onUpdate: 'CASCADE'})
       Product.belongsTo(models.Category, {foreignKey : "categoryId", onDelete: 'CASCADE', onUpdate: 'CASCADE'})
+      Product.belongsTo(models.Height, {foreignKey : "heightId", onDelete: 'CASCADE', onUpdate: 'CASCADE'})
+      Product.belongsTo(models.Feature, {foreignKey : "featureId", onDelete: 'CASCADE', onUpdate: 'CASCADE'})
       Product.hasMany(models.Image, {foreignKey: "productId"})
     }
   }
@@ -79,6 +81,8 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     categoryId: DataTypes.INTEGER,
+    heightId: DataTypes.INTEGER,
+    featureId: DataTypes.INTEGER,
     authorId: DataTypes.INTEGER
   }, {
     sequelize,

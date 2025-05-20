@@ -5,6 +5,8 @@
       "price": 16,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/pachira-1.webp",
       "categoryId": 3,
+      "featureId": 1,
+      "heightId": 3,
       "authorId": 1
     },
     { "name": "Ficus lyrata",
@@ -13,6 +15,8 @@
       "price": 42,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/ficus-lyrata-1.webp",
       "categoryId": 3,
+      "featureId": 1,
+      "heightId": 3,
       "authorId": 1
     },
     { "name": "Polyscias Fabian",
@@ -21,6 +25,8 @@
       "price": 19.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/polyscias-fabian-1.webp",
       "categoryId": 3,
+      "featureId": 2,
+      "heightId": 3,
       "authorId": 1
     },
     { "name": "Dracaena reflexa Anita",
@@ -29,6 +35,8 @@
       "price": 102,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dracaena-reflexa-Anita-1.webp",
       "categoryId": 3,
+      "featureId": 1,
+      "heightId": 3,
       "authorId": 1
     },
     { "name": "Zamioculcas zamiifolia",
@@ -37,6 +45,8 @@
       "price": 13.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Zamioculcas-zamiifolia-1.webp",
       "categoryId": 1,
+      "featureId": 3,
+      "heightId": 2,
       "authorId": 1
     },
     { "name": "Aspidistra",
@@ -45,6 +55,8 @@
       "price": 34.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Aspidistra-1.webp",
       "categoryId": 1,
+      "featureId": 4,
+      "heightId": 2,
       "authorId": 1
     },
     { "name": "Monstera deliciosa",
@@ -53,6 +65,8 @@
       "price": 14.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-deliciosa-1.webp",
       "categoryId": 1,
+      "featureId": 2,
+      "heightId": 2,
       "authorId": 1
     },
     { "name": "Monstera adansonii",
@@ -61,6 +75,8 @@
       "price": 14,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Monstera-adansonii-1.webp",
       "categoryId": 1,
+      "featureId": 2,
+      "heightId": 1,
       "authorId": 1
     },
     { "name": "Alocasia zebrina Tiger",
@@ -69,6 +85,7 @@
       "price": 22,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Alocasia-zebrina-Tiger-1.webp",
       "categoryId": 1,
+      "heightId": 2,
       "authorId": 1
     },
     {
@@ -78,6 +95,8 @@
       "price": 75,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dieffenbachia-Maroba-1.webp",
       "categoryId": 1,
+      "featureId": 1,
+      "heightId": 3,
       "authorId": 1
     },
     {
@@ -87,6 +106,8 @@
       "price": 8.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chamaedorea-elegans-1.webp",
       "categoryId": 2,
+      "featureId": 3,
+      "heightId": 3,
       "authorId": 1
     },
     {
@@ -96,6 +117,8 @@
       "price": 20,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chrysalidocarpus-lutescens-1.webp",
       "categoryId": 2,
+      "featureId": 3,
+      "heightId": 3,
       "authorId": 1
     },
     {
@@ -105,6 +128,8 @@
       "price": 149,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Rhapis-excelsa-1.webp",
       "categoryId": 2,
+      "featureId": 3,
+      "heightId": 3,
       "authorId": 1
     },
     {
@@ -114,6 +139,8 @@
       "price": 69.95,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Beaucarnea-1.webp",
       "categoryId": 2,
+      "featureId": 3,
+      "heightId": 3,
       "authorId": 1
     },
     {
@@ -123,6 +150,8 @@
       "price": 12.95,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Nephrolepis-exaltata-Bostoniensis-1.webp",
       "categoryId": 4,
+      "featureId": 4,
+      "heightId": 2,
       "authorId": 1
     },
     {
@@ -132,6 +161,8 @@
       "price": 11.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asplenium-nidus-Crispy-Wave-1.webp",
       "categoryId": 4,
+      "featureId": 4,
+      "heightId": 2,
       "authorId": 1
     },
     {
@@ -141,6 +172,7 @@
       "price": 13.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Asparagus-densiflorus-Myersii-1.jpg",
       "categoryId": 4,
+      "heightId": 1,
       "authorId": 1
     },
     {
@@ -150,6 +182,8 @@
       "price": 12.95,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Adiantum-Fragrans-1.jpg",
       "categoryId": 4,
+      "featureId": 4,
+      "heightId": 1,
       "authorId": 1
     },
     {
@@ -159,6 +193,8 @@
       "price": 27,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Sansevieria-Laurentii-1.webp",
       "categoryId": 5,
+      "featureId": 1,
+      "heightId": 2,
       "authorId": 1
     },
     {
@@ -168,6 +204,8 @@
       "price": 29.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Euphorbia-tirucalli-1.webp",
       "categoryId": 5,
+      "featureId": 3,
+      "heightId": 2,
       "authorId": 1
     },
     {
@@ -177,6 +215,8 @@
       "price": 12.95,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Clusia-rosea-Princess-1.webp",
       "categoryId": 5,
+      "featureId": 1,
+      "heightId": 2,
       "authorId": 1
     },
     {
@@ -186,6 +226,107 @@
       "price": 5.99,
       "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Haworthia-fasciala-Alba-1.webp",
       "categoryId": 5,
+      "featureId": 3,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Hedera helix White Wondera",
+      "slug": "hedera-helix-white-wonder",
+      "description": "Hedera helix White Wonder is an exquisite variegated English Ivy that breathes a sense of sophistication and freshness into your living space. Its lush, evergreen leaves are generously brushed with creamy to pristine white variegation, infusing a sense of purity and serenity. This ivy doesn't just bring aesthetic freshness; it also contributes to air purification.",
+      "price": 7.99,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Hedera-helix-White-Wonder-1.webp",
+      "categoryId": 1,
+      "featureId": 1,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Spathiphyllum Bellini",
+      "slug": "spathiphyllum-bellini",
+      "description": "Spathiphyllum wallisii Bellini is a small Peace Lily variety with gracefully arching stems and blooms that last for many months. It’s small, compact size makes it perfect for sitting on a small table or book shelf.",
+      "price": 11,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Spathiphyllum-Bellini-1.webp",
+      "categoryId": 1,
+      "featureId": 1,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Anthurium",
+      "slug": "anthurium",
+      "description": "Immerse your abode in the tranquil and sophisticated charms of the Anthurium Joli Peach. This captivating tropical gem boasts glossy heart-shaped leaves and showcases delicate pale pink flowers, exuding an aura of understated elegance. Let its presence infuse your space with natural beauty and serenity.",
+      "price": 18,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Anthurium-1.webp",
+      "categoryId": 1,
+      "featureId": 2,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Epipremnum aureum",
+      "slug": "Epipremnum-aureum",
+      "description": "Don't be deceived by its regal appearance though, this plant is no diva! The Marble Queen can handle some neglect and low light levels - without losing its variegation. Plus, it has the added benefit of purifying the air, making you feel like royalty in your own home. Get ready to elevate any room with this low-maintenance, high-style hanging indoor plant.",
+      "price": 10,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Epipremnum-aureum-1.webp",
+      "categoryId": 1,
+      "featureId": 2,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Hedera helix Golden Kolibri",
+      "slug": "Hedera helix Golden Kolibri",
+      "description": "Hedera Helix Golden Kolibri, commonly referred to as 'Midas Touch Ivy, is a stunning variegated English Ivy that effortlessly introduces a touch of elegance and vitality into your living environment. With its lush, evergreen leaves generously adorned in vibrant splashes of golden yellow, this ivy's leaves not only add vibrancy but also contribute to air purification. Its name, Hedera helix, derived from the Ancient Greek for 'twist' and 'turn,' aptly reflects its dynamic and lively nature.",
+      "price": 7,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Hedera-helix-Golden-Kolibri-1.webp",
+      "categoryId": 1,
+      "featureId": 3,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Chlorophytum Vittatum",
+      "slug": "Chlorophytum-Vittatum",
+      "description": "Chlorophytum comosum Vittatum is the classic retro Spider Plant. Leaves are slender, bright green, with a broad, creamy-white stripe down the centre. Small white starry flowers form in loose sprays attached by short stems that also bear small plantlets (baby spiders).",
+      "price": 8,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Chlorophytum-Vittatum-1.webp",
+      "categoryId": 1,
+      "featureId": 4,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Calathea roseopicta Cora",
+      "slug": "Calathea-roseopicta-Cora",
+      "description": "Calathea Cora is lush variegation at its tropical best. Large dark green striped leaves and borders contrast with paler centres that are occasionally flushed with a pale shade of pink. In classic Calathea style the backs of the leaves are a dark red-purple. A houseplant with true jungle boogie credentials.",
+      "price": 15,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Calathea-roseopicta-Cora-1.webp",
+      "categoryId": 1,
+      "featureId": 4,
+      "heightId": 1,
+      "authorId": 1
+    },
+    {
+      "name": "Aglaonema Stripes",
+      "slug": "Aglaonema-Stripes",
+      "description": "A great indoor plant, whose gorgeous foliage will brighten up any corner. Aglaonema Stripes is an extremely beautiful variety of Aglaonema with its deep rich green leaves covered with narrow bands of sparkling silvery-white stripes.",
+      "price": 22,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Aglaonema-Stripes-1.webp",
+      "categoryId": 1,
+      "featureId": 1,
+      "heightId": 2,
+      "authorId": 1
+    },
+    {
+      "name": "Dracaena Cintho",
+      "slug": "Dracaena-Cintho",
+      "description": "HydroCare plants are planted in hydrogranules instead of using soil. Hydrogranules are manufactured from clay pellets that are baked at high temperatures to make them expand, a process a bit like making popcorn. The open structure of the hydrogranules allows water and nutrients to be stored and released, creating the optimum conditions for indoor plants to thrive as well as simplifying maintenance requirements.",
+      "price": 39,
+      "mainImg": "https://raw.githubusercontent.com/annisa-rachma/plantasia-image/main/images/Dracaena-Cintho-1.webp",
+      "categoryId": 1,
+      "featureId": 2,
+      "heightId": 3,
       "authorId": 1
     }
   ]

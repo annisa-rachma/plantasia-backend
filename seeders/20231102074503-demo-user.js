@@ -33,6 +33,18 @@ module.exports = {
       return el
     })
 
+    const dataFeatures = require('../data/feature.json').map((el) => {
+      el.createdAt = new Date()
+      el.updatedAt = new Date()
+      return el
+    })
+
+    const dataHeight = require('../data/height.json').map((el) => {
+      el.createdAt = new Date()
+      el.updatedAt = new Date()
+      return el
+    })
+
     const dataProducts = require('../data/products.json').map((el) => {
       el.createdAt = new Date()
       el.updatedAt = new Date()
@@ -47,6 +59,8 @@ module.exports = {
 
     await queryInterface.bulkInsert('Users', dataUser);
     await queryInterface.bulkInsert('Categories', dataCategories);
+    await queryInterface.bulkInsert('Features', dataFeatures);
+    await queryInterface.bulkInsert('Heights', dataHeight);
     await queryInterface.bulkInsert('Products', dataProducts);
     await queryInterface.bulkInsert('Images', dataImages);
   },
@@ -54,6 +68,8 @@ module.exports = {
   async down (queryInterface, Sequelize) {
     await queryInterface.bulkDelete('Images', null, {});
     await queryInterface.bulkDelete('Products', null, {});
+    await queryInterface.bulkDelete('Heights', null, {});
+    await queryInterface.bulkDelete('Features', null, {});
     await queryInterface.bulkDelete('Categories', null, {});
     await queryInterface.bulkDelete('Users', null, {});
   }

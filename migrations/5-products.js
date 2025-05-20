@@ -40,6 +40,28 @@ module.exports = {
         onDelete: 'CASCADE',
         onUpdate: 'CASCADE'
       },
+      featureId: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: {
+            tableName: 'Features',
+          },
+          key: 'id'
+        },
+        onDelete: 'CASCADE',
+        onUpdate: 'CASCADE'
+      },
+      heightId: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: {
+            tableName: 'Heights',
+          },
+          key: 'id'
+        },
+        onDelete: 'CASCADE',
+        onUpdate: 'CASCADE'
+      },
       authorId: {
         type: Sequelize.INTEGER,
         references: {
