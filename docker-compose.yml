@@ -1,0 +1,35 @@
+services:
+  db-plantasia:
+    image: postgres:16
+    restart: always
+    environment:
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - traefik_network
+
+  plantasia-backend:
+    image: ghcr.io/annisa-rachma/plantasia-backend:latest
+    container_name: plantasia-backend
+    env_file:
+      - .env
+    depends_on:
+      - db-plantasia
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.plantasia-api.rule=Host(`api.plantasia.annisarachma.com`)"
+      - "traefik.http.routers.plantasia-api.entrypoints=websecure"
+      - "traefik.http.routers.plantasia-api.tls.certresolver=letsencrypt"
+      - "traefik.http.services.plantasia-api.loadbalancer.server.port=5000"
+    networks:
+      - traefik_network
+
+volumes:
+  postgres_data:
+
+networks:
+  traefik_network:
+    external: true

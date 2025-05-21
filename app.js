@@ -4,13 +4,11 @@ if(process.env.NODE_ENV !== "production") {
 require('dotenv').config();
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 const cors = require ('cors')
 const { errHandler } = require('./middlewares/errorHandling');
 const router = require('./routes')
-// const {hashPassword, comparePassword} = require('./helper/bcrypt')
-// const {signToken, verifyToken } = require('./helper/jwt')
-// const { Category, Image, Product, User } = require('./models')
+
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
